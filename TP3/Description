@@ -1,0 +1,4 @@
+Ce script a pour but de mettre en œuvre une résolution numérique sur problème mécanique.
+Pour ce faire nous allons utiliser la méthode de Runge-Kutta.
+Nous voulons étudier la réponse d'une aile d'avion à des sollicitations correspondant à différentes lois de variation de vitesse d'un flux d’air dans le temps.
+Nous allons soumettre l’aile à un flux sinusoïdale avec différentes pulsations ainsi qu’à un flux indiciel.
